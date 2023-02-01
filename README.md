@@ -1,12 +1,16 @@
 # Thesis-project
 
+## Last week's summary
+
+- [x] Find patients whose AR grade droped during follow-up
+- [x] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 ## Weekly summary table
 
-| Timeline | Tasks description | Suggestions |
-| --- | --- | --- |
-| last week | | |
-| --- | --- | --- |
-| 6 Dec, 2022 | <details><summary>CLICK ME</summary> <p> #### We can hide anything  even code! </p></details> | hello |
+| Timeline | Description | Tasks | Feedback & suggections |
+| --- | --- | --- | --- |
+| 6 Dec, 2022 | First meeting with Dr. Bardia, Prof. Bart and Prof. Roula | hello |
 | 15 Dec, 2022 | Show file differences that haven't been staged |
 | 22 Dec, 2022 | | |
 | 12 Jan, 2023 | | |
