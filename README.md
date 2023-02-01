@@ -2,9 +2,11 @@
 
 ## Last week's summary
 
-- [x] Find patients whose AR grade droped during follow-up
-- [x] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+```[tasklist]
+### Tasks
+- [x] https://github.com/octo-org/octo-repo/issues/45
+- [ ] Draft issue title
+```
 
 ## Weekly summary table
 
