@@ -13,7 +13,7 @@
 
 | Timeline | Description | Tasks | Feedback & suggections |
 | --- | --- | --- | --- |
-| 6 Dec 2022 | First meeting with Dr. Bardia, Prof. Bart, and Prof. Roula | hello |
+| 6 Dec 2022 | First meeting with Dr. Bardia and supervisors | hello |
 | 15 Dec 2022 | Show file differences that haven't been staged |
 | 22 Dec 2022 | | |
 | 12 Jan 2023 | | |
