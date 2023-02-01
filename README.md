@@ -2,10 +2,14 @@
 
 ## Weekly summary table
 
-| Timeline | summary/description | suggestions |
+| Timeline | Tasks description | Suggestions |
 | --- | --- | --- |
 | hello | hello | hello |
 | --- | --- | --- |
-| 6 Dec, 2022 | <details><summary>CLICK ME</summary> <p> #### We can hide anything, even code! </p></details> | hello |
-| 16 Dec, 2022 | Show file differences that haven't been staged |
-| 
+| 6 Dec, 2022 | <details><summary>CLICK ME</summary> <p> #### We can hide anything \\ even code! </p></details> | hello |
+| 15 Dec, 2022 | Show file differences that haven't been staged |
+| 22 Dec, 2022 | | |
+| 12 Jan, 2023 | | |
+| 19 Jan, 2023 | | |
+| 26 Jan, 2023 | | |
+| 2 Feb, 2023 | | |
