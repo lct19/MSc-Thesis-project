@@ -1,4 +1,4 @@
-# Thesis-project
+# MSc Thesis project
 
 ## Last week's summary
 
