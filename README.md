@@ -17,8 +17,8 @@
 | 6 Dec 2022 | First meeting with Dr. Bardia and supervisors | Meeting summary, understand research questions |
 | 15 Dec 2022 | Weekly meeting | Read papers, prepare proposal |
 | 22 Dec 2022 | Weekly meeting | Read papers, finish proposal, review LMM and survival analysis |
-| 12 Jan 2023 | Weekly meeting | Access to LUMC account, LMM and Cox model with INLA, Revised proposal based on feedback |
-| 19 Jan 2023 | Weekly meeting | Specify prior, check label information in SPSS, Apply LMM, Cox model to the real data set |
-| 26 Jan 2023 | Weekly meeting | Find patients whose AR grade dropped, find outliers, Access to the HPC environment |
-| 2 Feb 2023 | | |
+| 12 Jan 2023 | Weekly meeting | Access to LUMC account, try LMM and Cox model with INLA on two case studies, revised proposal based on feedback |
+| 19 Jan 2023 | Weekly meeting | Specify prior, check label information in SPSS, apply LMM, Cox model to the real data set, initial data analysis |
+| 26 Jan 2023 | Weekly meeting | Find patients whose AR grade dropped, find outliers, Access to the HPC environment, Try to add more random effects to the LMM |
+| 2 Feb 2023 | Weekly meeting |  |
 
