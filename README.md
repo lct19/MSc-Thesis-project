@@ -8,7 +8,7 @@
 - [x] Residual analysis for LMM.
 - [x] Build summary table on GitHub.
 - [ ] Tried joint modeling in the JM package. - Failed due to NAs.
-- [ ] Tried to build a LMM with ideal marginal residuals.
+- [ ] Tried to build a LMM with ideal marginal residuals. - Linear trend in residuals at this moment.
 
 ## Weekly summary table
 
