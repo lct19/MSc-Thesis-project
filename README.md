@@ -4,8 +4,9 @@
 
 - [x] Find patients whose AR grade dropped during follow-up.
 - [x] Find outliers of each variable.
-- [x] Fixed errors when using 'xyplot'.
+- [x] Fix errors when using 'xyplot'.
 - [x] Residual analysis for LMM.
+- [x] Build summary table on GitHub.
 - [ ] Tried joint modeling in the JM package. - Failed due to NAs.
 - [ ] Tried to build a LMM with ideal marginal residuals.
 
