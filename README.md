@@ -4,8 +4,8 @@
 
 - [x] Access the Research LUMC platform.
 - [x] LMM: residual analysis based on full model (include two-way interactions).
-- [x] Time dependent cox regression.
-
+- [x] Time dependent cox regression (survival package).
+- [ ] Time dependent cox regression (INLA)
 
 ## Weekly summary table
 
