@@ -20,6 +20,7 @@
 | 2 Feb 2023 | Weekly meeting | Residual analysis (focus on the gradient), Cox regression (Include time dependent covariates) |
 | 7 Feb 2023 | Weekly meeting | Prepare for client meeting: defining the data |
 | 10 Feb 2023 | Client meeting | Receive updated data, reconstruct the dataset, explortory data analysis |
+| 17 Feb 2023 | ||
 
 ## History
 
