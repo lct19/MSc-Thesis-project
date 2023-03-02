@@ -2,9 +2,7 @@
 
 ## Last week's summary
 
-- [x] Reconstruct the dataset in R
-- [x] Explortory data analysis
-- [x] Exploring joint modeling with INLA (Time dependent cox regression?)
+
 
 
 ## Weekly summary table
@@ -20,9 +18,21 @@
 | 2 Feb 2023 | Weekly meeting | Residual analysis (focus on the gradient), Cox regression (Include time dependent covariates) |
 | 7 Feb 2023 | Weekly meeting | Prepare for client meeting: defining the data |
 | 10 Feb 2023 | Client meeting | Receive updated data, reconstruct the dataset, explortory data analysis |
-| 17 Feb 2023 | ||
+| 17 Feb 2023 | Weekly meeting | Reconstruct the dataset in R, Explortory data analysis, Exploring joint modeling with INLA (Time dependent cox regression?) |
+| 24 Feb 2023 | Weekly meeting | Built several joint models with INLA, Built several joint models with INLAjoint, Built several joint models with JMbayes2 |
 
 ## History
+
+24 Feb 2023
+- [x] Built several joint models with INLA (only consider reoperation as the event);
+- [x] Built several joint models with INLAjoint (reoperation and death, regarded as competing events)
+- [x] Built several joint models with JMbayes2.
+- [x] Summarise problems during data reconstruction.
+
+17 Feb 2023
+- [x] Reconstruct the dataset in R
+- [x] Explortory data analysis
+- [x] Exploring joint modeling with INLA (Time dependent cox regression?)
 
 7 Feb 2023
 - [x] Access the Research LUMC platform.
