@@ -2,7 +2,9 @@
 
 ## Last week's summary
 
-
+- [x] Fined joint models with INLA (Semi-parametric model for survival part)
+- [x] Inference based on time-dependent cox model
+- [x] Inference based on linear mixed model
 
 
 ## Weekly summary table
