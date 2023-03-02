@@ -21,7 +21,7 @@
 | 7 Feb 2023 | Weekly meeting | Prepare for client meeting: defining the data |
 | 10 Feb 2023 | Client meeting | Receive updated data, reconstruct the dataset, explortory data analysis |
 | 17 Feb 2023 | Weekly meeting | Reconstruct the dataset in R, Explortory data analysis, Exploring joint modeling with INLA (Time dependent cox regression?) |
-| 24 Feb 2023 | Weekly meeting | Built several joint models with INLA, Built several joint models with INLAjoint, Built several joint models with JMbayes2 |
+| 24 Feb 2023 | Weekly meeting | Currently parametric model for survival part makes too strong assumption on baseline hazard, try cox regression in joint model |
 
 ## History
 
