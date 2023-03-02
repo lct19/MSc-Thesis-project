@@ -23,7 +23,7 @@
 | 17 Feb 2023 | Weekly meeting | Reconstruct the dataset in R, Explortory data analysis, Exploring joint modeling with INLA (Time dependent cox regression?) |
 | 24 Feb 2023 | Weekly meeting | Currently parametric model for survival part makes too strong assumption on baseline hazard, try cox regression in joint model |
 
-## History
+## History (Finished tasks before the meeting)
 
 24 Feb 2023
 - [x] Built several joint models with INLA (only consider reoperation as the event);
